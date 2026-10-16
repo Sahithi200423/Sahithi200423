@@ -28,8 +28,8 @@ Passionate about building responsive, functional web applications, expanding my 
 ## 🌟 Featured Projects
 
 ### 🎬 [CineBook — Movie Ticket Booking Platform](https://github.com/Sahithi200423/Movie_booking)
-A full-stack, production-deployed cinema ticket booking system with real-time seat inventory.
-- **Key Highlights:** Dynamic showtime resolution, interactive seat layout, Asia/Kolkata timezone lock, ₹5 demo checkout with Razorpay integration, and a 21-test automated regression suite.
+An educational full-stack cinema booking simulator with real-time seat inventory and demo payments.
+- **Key Highlights:** Dynamic showtime resolution, interactive seat layout, Asia/Kolkata timezone lock, ₹5 demo checkout (simulated payments & cancellation refunds), and a 21-test automated regression suite.
 - **Tech Stack:** React, TypeScript, Node.js, Express, Supabase PostgreSQL, Tailwind CSS
 - **Live Links:** [Web Application](https://movie-booking-one-azure.vercel.app/) • [Backend Health API](https://cinebook-backend-as00.onrender.com/api/health)
 
